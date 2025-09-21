@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/09ddd_next_dist_compiled_next-devtools_index_8b820c57.js",
+      "static/chunks/09ddd_next_dist_compiled_eac17fcf._.js",
+      "static/chunks/09ddd_next_dist_shared_lib_0057055d._.js",
+      "static/chunks/09ddd_next_dist_client_4eb18eb5._.js",
+      "static/chunks/09ddd_next_dist_20ec0ead._.js",
+      "static/chunks/09ddd_next_app_e1bf575b.js",
+      "static/chunks/[next]_entry_page-loader_ts_0c68f122._.js",
+      "static/chunks/09ddd_react-dom_db682aba._.js",
+      "static/chunks/09ddd_62dc4331._.js",
+      "static/chunks/[root-of-the-server]__71ef6fdb._.js",
+      "static/chunks/FRONTEND_interent_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-FRONTEND_interent_pages__app_a272f8d0._.js"
+    ],
+    "/_error": [
+      "static/chunks/09ddd_next_dist_compiled_next-devtools_index_8b820c57.js",
+      "static/chunks/09ddd_next_dist_compiled_eac17fcf._.js",
+      "static/chunks/09ddd_next_dist_shared_lib_290eaa5e._.js",
+      "static/chunks/09ddd_next_dist_client_4eb18eb5._.js",
+      "static/chunks/09ddd_next_dist_081be2d4._.js",
+      "static/chunks/09ddd_next_error_49e58c57.js",
+      "static/chunks/[next]_entry_page-loader_ts_3f95dee5._.js",
+      "static/chunks/09ddd_react-dom_db682aba._.js",
+      "static/chunks/09ddd_62dc4331._.js",
+      "static/chunks/[root-of-the-server]__cf8da7b7._.js",
+      "static/chunks/FRONTEND_interent_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-FRONTEND_interent_pages__error_55437876._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/09ddd_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0a279b32._.js",
+    "static/chunks/09ddd_next_dist_compiled_react-dom_0dd8c484._.js",
+    "static/chunks/09ddd_next_dist_compiled_next-devtools_index_60a895fb.js",
+    "static/chunks/09ddd_next_dist_compiled_558ce27a._.js",
+    "static/chunks/09ddd_next_dist_client_af685a06._.js",
+    "static/chunks/09ddd_next_dist_a3218d98._.js",
+    "static/chunks/09ddd_@swc_helpers_cjs_2fd59860._.js",
+    "static/chunks/FRONTEND_interent_a0ff3932._.js",
+    "static/chunks/turbopack-FRONTEND_interent_c6ddb846._.js"
+  ],
+  "ampFirstPages": []
+}

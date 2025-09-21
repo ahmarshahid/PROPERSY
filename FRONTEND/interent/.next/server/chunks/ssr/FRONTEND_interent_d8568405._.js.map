@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Hp/Desktop/PDF-AGENT/FRONTEND/interent/app/layout.tsx"],"sourcesContent":["import \"./globals.css\";\r\nimport type { Metadata } from \"next\";\r\n\r\n\r\nexport const metadata: Metadata = {\r\ntitle: \"n8n Bid Console\",\r\ndescription: \"Upload RFP & Company PDFs to n8n and render outputs\"\r\n};\r\n\r\n\r\nexport default function RootLayout({ children }: { children: React.ReactNode }) {\r\nreturn (\r\n<html lang=\"en\">\r\n<body>{children}</body>\r\n</html>\r\n);\r\n}"],"names":[],"mappings":";;;;;;;;;AAIO,MAAM,WAAqB;IAClC,OAAO;IACP,aAAa;AACb;AAGe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAC9E,qBACA,sQAAC;QAAK,MAAK;kBACX,cAAA,sQAAC;sBAAM;;;;;;;;;;;AAGP","debugId":null}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Hp/Desktop/PDF-AGENT/FRONTEND/interent/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,8IACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}

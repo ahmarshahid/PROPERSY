@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/api/n8n-proxy/route": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0a279b32._.js",
+      "static/chunks/09ddd_next_dist_compiled_react-dom_0dd8c484._.js",
+      "static/chunks/09ddd_next_dist_compiled_next-devtools_index_60a895fb.js",
+      "static/chunks/09ddd_next_dist_compiled_558ce27a._.js",
+      "static/chunks/09ddd_next_dist_client_af685a06._.js",
+      "static/chunks/09ddd_next_dist_a3218d98._.js",
+      "static/chunks/09ddd_@swc_helpers_cjs_2fd59860._.js",
+      "static/chunks/FRONTEND_interent_a0ff3932._.js",
+      "static/chunks/turbopack-FRONTEND_interent_c6ddb846._.js"
+    ]
+  }
+}

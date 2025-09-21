@@ -1,0 +1,18 @@
+import Image from "next/image";
+import NBidConsole from "./components/NBidConsole";
+
+export default function Home() {
+  return (
+     <main className="min-h-dvh p-6">
+      {/* Fixed proxy, completely not relying on NEXT_PUBLIC_* */}
+      <NBidConsole defaultWebhookUrl="/api/n8n-proxy" />
+      <section className="mt-8 text-xs opacity-60">
+       
+      </section>
+    </main>
+
+
+
+
+  );  
+}

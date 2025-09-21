@@ -1,0 +1,40 @@
+{
+  "version": 3,
+  "middleware": {},
+  "sortedMiddleware": [],
+  "functions": {
+    "/api/n8n-proxy/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/interception-route-rewrite-manifest.js",
+        "server/server-reference-manifest.js",
+        "server/app/api/n8n-proxy/route_client-reference-manifest.js",
+        "server/edge/chunks/FRONTEND_interent__next-internal_server_app_api_n8n-proxy_route_actions_f3a931e7.js",
+        "server/edge/chunks/22c1d_interent__next-internal_server_app_api_n8n-proxy_route_actions_274a5245.js",
+        "server/edge/chunks/09ddd_next_dist_esm_a522a14a._.js",
+        "server/edge/chunks/09ddd_next_dist_compiled_ac6a99c5._.js",
+        "server/edge/chunks/09ddd_next_dist_fe270a5e._.js",
+        "server/edge/chunks/FRONTEND_interent_edge-wrapper_e5fde8d9.js",
+        "server/edge/chunks/[root-of-the-server]__2f2cfe38._.js",
+        "server/edge/chunks/turbopack-FRONTEND_interent_edge-wrapper_a8e767fc.js"
+      ],
+      "name": "app/api/n8n-proxy/route",
+      "page": "/api/n8n-proxy/route",
+      "matchers": [
+        {
+          "regexp": "^/api/n8n\\-proxy(?:/)?$",
+          "originalSource": "/api/n8n-proxy"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "bWI05pwAuH2AtY2qZV0jtPqBQ9ACy7tub3j2uFZ8Ljg=",
+        "__NEXT_PREVIEW_MODE_ID": "d35b80a9fd73b782779c96afcb669945",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "38c6cb952aa152db937f139701025b329193546ff58bd5800dd46c5cfd28e36e",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "a32f7475cc85fe4ff67238bde9934a68ccd645f721ca8c2fde2f7fd6ea3d3e86"
+      }
+    }
+  }
+}

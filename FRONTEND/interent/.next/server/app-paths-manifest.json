@@ -1,0 +1,5 @@
+{
+  "/api/n8n-proxy/route": "app-edge-has-no-entrypoint",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
